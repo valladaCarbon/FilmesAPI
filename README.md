@@ -1,6 +1,6 @@
 # API CONTROLADOR DE FILMES
 Projeto de API feito para aqueles que pretendem usar para adicionar filmes no BD 
-E contralar a partir da própria API. O Projeto está na fase BETA.
+E controlar a partir da própria API. O Projeto está na fase BETA.
 
 ## 🚀 START
 Baixe o Projeto e execute com o comando dotnet watch run para abrir o projeto. Para visualizar
