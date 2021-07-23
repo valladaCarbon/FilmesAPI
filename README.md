@@ -10,7 +10,7 @@ O Projeto já é implementado para usar o EntityFramework para comunicação com
 
 ## 📋 Pré-requisitos
 
-* NET 5
+* .NET 5
 * IDE FAVORITA (EU UTILIZEI O VISUAL STUDIO CODE)
 
 ## ⚙️ Executando os testes
